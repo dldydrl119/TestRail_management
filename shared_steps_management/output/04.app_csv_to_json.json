@@ -1,0 +1,812 @@
+[
+  {
+    "title": "[공통] 0.1.1) Android Version 5",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "[공통] 0.1.1) Android Version 5",
+        "expected": "정상 실행 확인 (설치, 권한팝업, 푸쉬알림, 필수권한, 실행) "
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "[공통] 0.1.2) Android Version 6",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "[공통] 0.1.2) Android Version 6",
+        "expected": "정상 실행 확인 (설치, 권한팝업, 푸쉬알림, 필수권한, 실행) "
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "[공통] 0.1.3) Android Version 7",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "[공통] 0.1.3) Android Version 7",
+        "expected": "정상 실행 확인 (설치, 권한팝업, 푸쉬알림, 필수권한, 실행) "
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "[공통] 0.1.4) Android Version 8",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "[공통] 0.1.4) Android Version 8",
+        "expected": "정상 실행 확인 (설치, 권한팝업, 푸쉬알림, 필수권한, 실행) "
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "[공통] 0.1.5) Android Version 9",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "[공통] 0.1.5) Android Version 9",
+        "expected": "정상 실행 확인 (설치, 권한팝업, 푸쉬알림, 필수권한, 실행) "
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "[공통] 0.1.6) Android Version 10",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "[공통] 0.1.6) Android Version 10",
+        "expected": "정상 실행 확인 (설치, 권한팝업, 푸쉬알림, 필수권한, 실행) "
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "[공통] 0.1.7) Android Version 11",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "[공통] 0.1.7) Android Version 11",
+        "expected": "정상 실행 확인 (설치, 권한팝업, 푸쉬알림, 필수권한, 실행) "
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "[공통] 0.1.8) Android Version 12",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "[공통] 0.1.8) Android Version 12",
+        "expected": "정상 실행 확인 (설치, 권한팝업, 푸쉬알림, 필수권한, 실행) "
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "[공통] 0.1.9) Android Version 13",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "[공통] 0.1.9) Android Version 13",
+        "expected": "정상 실행 확인 (설치, 권한팝업, 푸쉬알림, 필수권한, 실행) "
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.1) 회원 로그인 - Home",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.1) 회원 로그인 - Home",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.2) 회원 로그인 - MyG",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.2) 회원 로그인 - MyG",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.3) 회원 로그인 - VIP > 구매하기",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.3) 회원 로그인 - VIP > 구매하기",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.4) 회원 로그인 - e쿠폰 > PP사 > 선물하기",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.4) 회원 로그인 - e쿠폰 > PP사 > 선물하기",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.5) 소셜 회원 로그인 - Home",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.5) 소셜 회원 로그인 - Home",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.6) 소셜 회원 로그인 - MyG",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.6) 소셜 회원 로그인 - MyG",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.7) 소셜 회원 로그인 - VIP > 구매하기",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.7) 소셜 회원 로그인 - VIP > 구매하기",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.8) 소셜 로그인 - e쿠폰 > PP사 > 선물하기",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.8) 소셜 로그인 - e쿠폰 > PP사 > 선물하기",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.9) 비회원 로그인 - Home",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.9) 비회원 로그인 - Home",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.10) 비회원 로그인 - MyG",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.10) 비회원 로그인 - MyG",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.11) 비회원 로그인 - VIP > 구매하기",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.11) 비회원 로그인 - VIP > 구매하기",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.12) 비회원 로그인 - e쿠폰 > PP사 > 선물하기",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.12) 비회원 로그인 - e쿠폰 > PP사 > 선물하기",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.13) 사업자 구매 회원 로그인 - Home",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.13) 사업자 구매 회원 로그인 - Home",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.14) 사업자 구매 회원 로그인 - MyG",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.14) 사업자 구매 회원 로그인 - MyG",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.15) 사업자 구매 회원 로그인 - VIP > 구매하기",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.15) 사업자 구매 회원 로그인 - VIP > 구매하기",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.16) 사업자 구매 회원 로그인 - e쿠폰 > PP사 > 선물하기",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.16) 사업자 구매 회원 로그인 - e쿠폰 > PP사 > 선물하기",
+        "expected": "로그인 정상 여부 확인 - 진입된 홈페이지에서 본인 계정 이름 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "0.2.17) 로그인 생략",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "0.2.17) 로그인 생략",
+        "expected": "로그인 없이 홈페이지 이동 - 홈페이지가 정상적으로 이동되었는지 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.1.1) 일반 회원 가입",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 가입 페이지 이동하여, 가입 정보 입력\n- 위 절차가 정상적으로 완료된 경우 로그인 화면으로 이동",
+        "expected": "- 가입 페이지가 성공적으로 로드되고, 가입 필수 정보가 입력 가능\n- 로그인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.1.2) 사업자 회원 가입",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 가입 페이지 이동하여, 가입 정보 입력\n- 위 절차가 정상적으로 완료된 경우 로그인 화면으로 이동",
+        "expected": "- 가입 페이지가 성공적으로 로드되고, 사업자 회원 가입 가능 문구 노출\n- 로그인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.1.3) 아이디 찾기 ",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 아이디 찾기 화면로 이동하여 휴대폰 & 아이핀 정보찾기 라디오 버튼 확인\n- 위 절차가 정상적으로 완료된 경우 로그인 화면으로 이동",
+        "expected": "- 아이디 찾기 페이지가 성공적으로 로드되고, 휴대폰 & 아이핀 정보 찾기 라디오 버튼의 활성화\n- 로그인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.1.4) 비밀번호 찾기",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 비밀번호 찾기 페이지로 이동하여, 인증 문구 확인\n- 위 절차가 정상적으로 완료된 경우 로그인 화면으로 이동",
+        "expected": "- 비밀번호 찾기 페이지가 성공적으로 로드되고, 인증 문구 노출\n- 로그인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.1) 홈 GNB \n- 홈 상단바 영역의 UI 확인 (문구, 아이콘, 링크)",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 홈 상단바 좌측 문구 확인\n- 홈상단바 우측 아이콘 노출 및 링크 확인\n- 홈상단바 우측 장바구니 아이콘 노출 및 링크 확인\n- 홈 UI 영역 확인\n-  위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 영역의 GNB 영역이 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.2) 메인홈 - Default\n- 메인홈 영역의 UI 확인 (문구, 아이콘, 링크)",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 홈 > 우측 상단 영역 UI\n- 홈 > 광고 영역\n- 홈 > 서클플로팅 영역\n- 홈 > BNB 배너 영역\n- 홈 > 홈쇼핑 영역\n-  위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 Default 영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.3) 메인홈 - 오늘은\n- 메인홈 \"오늘은\" 영역의 UI 확인 (문구, 아이콘, 링크)",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 홈 > 기획전 영역\n- 홈 > 상단 기획전 영역\n- 홈 > 게이트 영역\n- 홈 > 슈퍼딜 영역\n- 홈 > 상품 영역\n- 홈 > 스마일 배송 영역\n- 홈 > 아이콘 노출\n-  위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"오늘은\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.4) 메인홈 - 베스트\n- 메인홈 \"베스트\" 영역의 UI 확인 (문구, 아이콘, 링크)",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 홈 > 베스트 영역 (스크롤 동작, TOP 버튼 동작. 선택 동작)\n- 홈 > 베스트 카테고리 영역 (문구 노출, 임의의 카테고리 선택 동작)\n- 홈 > 베스트 \"최고로 잘나가는 오늘의 BEST\" 영역 (문구 / 전체보기 / 상품 노출 / 영역 하단)\n- 홈 > 베스트\"패션의류 BEST\" 영역 (문구 / 전체보기 / 상품 노출 / 영역 하단)\n- 홈 > 베스트\"신발/잡화 BEST\" 영역 (문구 / 전체보기 / 상품 노출 / 영역 하단)\n- 홈 > 베스트\"화장품/헤어 BEST\" 영역  (문구 / 전체보기 / 상품 노출 / 영역 하단)\n- 홈 > 베스트\"유아동/출산 BEST\"영역  (문구 / 전체보기 / 상품 노출 / 영역 하단)\n- 홈 > 베스트\"식품BEST\"영역  (문구 / 전체보기 / 상품 노출 / 영역 하단)\n- 홈 > 베스트\"생활/주방/건강 BEST\" 영역  (문구 / 전체보기 / 상품 노출 / 영역 하단)\n- 홈 > 베스트\"가구/침구 BEST\" 영역  (문구 / 전체보기 / 상품 노출 / 영역 하단)\n- 홈 > 베스트\"스포츠/자동차 BEST\" 영역  (문구 / 전체보기 / 상품 노출 / 영역 하단)\n- 홈 > 베스트\"컴퓨터/전자 BEST\" 영역  (문구 / 전체보기 / 상품 노출 / 영역 하단)\n- 홈 > 베스트\"도서/음악 BEST\" 영역  (문구 / 전체보기 / 상품 노출 / 영역 하단)\n- 홈 > 베스트\"여행 BEST\"영역  (문구 / 전체보기 / 상품 노출 / 영역 하단)\n- 홈 > 베스트\"e쿠폰 BEST\" 영역  (문구 / 전체보기 / 상품 노출 / 영역 하단)\n- 홈 > 베스트\"실시간 LIVE 랭킹\" 영역  (문구 / 전체보기 / 상품 노출 / 영역 하단)\n-  위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"오늘은\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.5) 메인홈 - 백화점\n- 메인홈 \"백화점\" 영역의 UI 확인 (문구, 아이콘, 링크)",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 백화점 > 배너 및 버튼\n- 백화점 > 검색 및 카테고리\n- 백화점 > 링크 영역\n-  위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"백화점\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.6) 메인홈 - 패션스퀘어\n- 메인홈 \"패션스퀘어\" 영역의 UI 확인 (문구, 아이콘, 링크)",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 패션 부티탭 > 페이지 랜딩 및 상단 이미지 기획전\n-  위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"백화점\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.7) 메인홈 - 선물하기\n- 메인홈 \"선물하기\" 영역의 UI 확인 (문구, 아이콘, 링크)",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 선물하기 홈 > 배너 및 카테고리 확인\n- 선물하기 탭 > 버튼 기능 \n- 선물하기 탭 > 상품\n- 선물하기 탭 > E 쿠폰\n- 선물하기 탭 > 백화점 선물\n- 선물하기 탭 > 자주찾는 브랜드\n-  위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"선물하기\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.8) 메인홈 - 홈&라이프\n- 메인홈 \"홈&라이프\" 영역의 UI 확인 (문구, 아이콘, 링크)",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "\"- 홈 & 라이프 탭 > 자주차는 카테고리\n- 홈 & 라이프 탭 > 가구 침구 브랜드 몰\"\n-  위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"홈&라이프\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.9) 메인홈 - 홈쇼핑\n- 메인홈 \"홈쇼핑\" 영역의 UI 확인 (문구, 아이콘, 링크)",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 슈퍼딜 > 딜카드 > 구성 요소 확인\n- 스크롤 동작 확인\n- 버튼 동작 확인\n- 실시간 LIVE 랭킹\n- 실시간 라이브 랭킹 > 특별 방송\n- 실시간 라이브 랭킹 > 이미지\n-  위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"홈쇼핑\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.10) 메인홈 - 스마일프레시\n- 메인홈 \"스마일프레시\" 영역의 UI 확인 (문구, 아이콘, 링크)",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 배송지 및 도착 보장일\n- 도착 보장일 링크\n- 배송 시간 표 노출\n- 클럽 넛징 노출 (회원별)\n- 비로그인, 클럽X/O_스마일프레시 홈 스마일클럽 넛징 영역 삭제 확인                         \n- 자주구매 버튼 노출 및 이동 확인                        \n- 장본내역 버튼 노출 및 이동 확인                        \n- 관심상품 버튼 노출 및 이동 확인                        \n- 스마일프레시 검색창 노출 확인                        \n- 카테고리 노출 및 이동 확인                        \n- 와이드 배너(기획전) 노출 및 동작 확인                        \n- 자주 구매 영역 노출 확인                        \n- 스마일프레시 추천 서비스 노출 및 이동 확인                        \n- 쿠폰 다운로드 슬롯 노출 및 이동 확인                        \n- [비로그인] 스마일프레시 배송지 영역 노출 확인                        \n- [비로그인] 스마일프레시 배송지 영역 하단 문구 노출 확인                        \n- '스마일프레시 추천 서비스' 문구 노출 확인                        \n- '다양한 혜택받고 스마일프레시에서 장보세요' 문구 노출 확인                        \n- '지금 잘 나가는 신선식품 베스트는? 전체보기 >' 문구 노출 확인                        \n- '하나 더' 인기 상품 전체보기 > 문구 노출 확인                        \n- '잘 나가는 전단 인기 상품 전체보기 >' 문구 노출 확인                        \n- '잘 나가는 전단 인기 상품 하단에 '전체보기 >' 버튼 노출 확인                        \n- '믿고 장보는 공식 브랜드 전체보기 >' 문구 노출 확인                        \n- '믿고 장보는 공식 브랜드 하단에 '브랜드명 새로보기 1/5' 버튼 노출 확인                        \n- '멈출 수 없는 단짠단짠! 더보기 >' 문구 노출 확인                        \n- '우리 집 장보기 필수템' 문구 노출 확인                        \n- '따끈한~국물 어때요? 더보기 >' 문구 노출 확인                        \n- '득템! 더 리미티드 오직 스마일프레시에서 ->' 문구 및 이미지 노출 확인                        \n- '스마일프레시 BEST 전체보기 >' 문구 노출 확인                        \n- '스마일프레시 BEST 하단에 'ALL 전체보기 >' 버튼 노출 확인                        \n- '스마일프레시 알아보기' 문구 및 이미지 노출 확인                        \n- [로그인] 하단 '로그아웃' 버튼 노출 확인                        \n- [비로그인] 하단 '로그인' 버튼 노출 확인                        \n- 하단 '고객센터' 버튼 노출 확인                        \n- 하단 '앱설정' 버튼 노출 확인                        \n- 하단 '주식회사 지마켓 ∨' 버튼 노출 확인                        \n- 하단 '주식회사 지마켓 ∨' 버튼 클릭 시 상세 내용 노출 확인                        \n- 하단 문구 확인\n-  위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"스마일 프레시\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.11) 메인홈 - 슈퍼딜\n- 메인홈 \"슈퍼딜\" 영역의 UI 확인 (문구, 아이콘, 링크)",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 슈퍼딜 영역 > 카테고리\n- 슈퍼딜 영역 > 상품 정보\n- 슈퍼딜 영역 > 관심 상품 등록\n- 슈퍼딜 영역 > 광고배너\n- 슈퍼딜 영역 > 홈쇼핑 딜카드\n- 슈퍼딜 영역 > 딜카드\n-  위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"스마일 프레시\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.12) 메인홈 - 여행\n- 메인홈 \"여행\" 영역의 UI 확인 (문구, 아이콘, 링크)",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 버티컬 VIP                        \n- 여행상품 > 상세정보                                        \n- 항공/여행 > 국내호텔 SRP                        \n- 항공/여행 > 해외호텔 SRP                        \n- 여행상품 > 버티컬 VIP > 관심상품/공유하기                         \n- 여행 탭 UI                        \n- 여행 프로모션, 공유하기, 텍스트 확인                        \n- 여행/항공                        \n- 여행 > 항공권 탭)                        \n- 여행 > 숙박 탭)                        \n- 여행 > 패키지 탭)                        \n- 여행 > 항공권 출발지)                        \n- 여행 > 해외 항공권 도착지)                        \n- 여행 > 국내 항공권 출발지)                        \n- 여행 > 국내 항공권 도착지)                        \n- 여행 > 국내 호텔)                        \n- 여행 > 해외 호텔)                        \n- 여행 > 해외 패키지)                        \n- 핫딜                        \n- 핫딜 전체 보기\n-  위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"스마일 프레시\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.13) 스마일 배송Corner 홈 - Default",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 비로그인 > 스마일배송 > 배송지 영역 확인                        \n- 로그인 > 스마일배송 > 배송지 영역 확인                         \n- 스마일배송 > 배송지 설정 확인                        \n- 스마일배송                        \n- 스마일배송 이미지 텍스트                        \n- 스마일배송 이용 안내 자세히 보기                        \n- 스마일배송 상품 정보 확인 (2)                        \n- 스마일배송 (코너홈)                        \n- 스마일배송 (베스트100)                        \n- 스마일배송 > 하단 네비게이션 바 확인\n-  위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"스마일 프레시\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.14) 스마일 배송Corner 홈 - 서브섹션",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 스마일배송 > 상단 영역 확인        \n- 스마일배송 > 상단으로 이동 버튼 노출 및 기능                                        \n- 스마일배송 > 기획전 영역 노출 확인                         \n- 스마일배송 > 기획전 영역 스와이프 확인 (좌,우)                                        \n- 스마일배송 > 뒤로가기 버튼 노출 확인                        \n- 스마일배송 > 검색 버튼 노출 확인                        \n- 스마일배송 > 장바구니 버튼 노출 확인                        \n- 스마일배송 > 최고로 잘 나가는 스마일 배송 Best 영역 상단 문구 노출 확인                        \n- 스마일배송 > 최고로 잘 나가는 스마일 배송 Best 영역 상품 노출 확인                        \n- 스마일배송 > 오늘 주문, 내일 도착 영역 문구 노출 확인                        \n- 스마일배송 > 오늘 주문, 내일 도착 영역 배너 문구 노출 확인                        \n- 스마일배송 > 무료배송 배너 문구 노출 확인                        \n- 스마일배송 > 스마일클럽 배너 문구 노출 확인                        \n- 스마일배송 > 이달의브랜드 배너 문구 노출 확인                        \n- 스마일배송 > 신상마켓 영역 문구 노출 확인                        \n- 스마일배송 > 신상마켓 영역 상품 노출 확인                        \n- 스마일배송 > 창고대방출 영역 문구 노출 확인                        \n- 스마일배송 > 창고대방출 영역 상품 노출 확인                        \n- 스마일배송 > 무료배송 기획전 영역 문구 노출 확인                        \n- 스마일배송 > 무료배송 기획전 영역 상품 노출 확인                        \n- 스마일배송 > 이달의브랜드 할인 문구 노출 확인                        \n- 스마일배송 > 이달의브랜드 할인 영역 쿠폰 노출 확인                        \n- 스마일배송 > 슈퍼딜 영역 노출 확인                        \n- 스마일배송 > LP 영역 노출 확인                        \n- 스마일배송 > LP 영역 상단으로 이동 버튼 미노출 확인                        \n- 스마일배송 > LP영역 상단으로 이동 버튼 노출 확인                        \n- 스마일배송 > LP영역 뒤로가기 버튼 노출 확인                        \n- 스마일배송 > LP영역 검색 버튼 노출 확인                        \n- 스마일배송 > LP영역 장바구니 버튼 노출 확인                        \n- 스마일배송 > LP영역 카테고리 우측 스와이프 동작 확인                        \n- 스마일배송 > LP영역 카테고리 좌측 스와이프 동작 확인                        \n- 스마일배송 > LP영역 카테고리 분류 노출 확인                        \n- 스마일배송 > LP영역 카테고리 소분류 확인                        \n- 스마일배송 > LP영역 카테고리 소분류 확인                        \n- 스마일배송 > LP영역 카테고리 소분류 확인                        \n- 스마일배송 > LP영역 기획전 넛징 노출 확인                        \n- 스마일배송 > LP 영역 클럽 넛징 노출 확인                        \n- 스마일배송 > LP영역 푸터 노출 확인                        \n- 스마일배송 > LP영역 푸터 문구 확인                        \n- 스마일배송 > 푸터 노출 확인                        \n- 스마일배송 > 푸터 문구 확인                        \n- 스마일배송 > SRP 영역 검색창 노출 확인                        \n- 스마일배송 > SRP 영역 상단으로 이동 버튼 미노출 확인                        \n- 스마일배송 > SRP영역 상단으로 이동 버튼 노출 확인                        \n- 스마일배송 > SRP 영역 뒤로가기 버튼 노출 확인                        \n- 스마일배송 > SRP 영역 검색 버튼 노출 확인                        \n- 스마일배송 > SRP 영역 장바구니 버튼 노출 확인                        \n- 스마일배송 > SRP 영역 상품 노출 확인                        \n- 스마일배송 > SRP 영역 무료배송란 미체크 확인                        \n- 스마일배송 > SRP 영역 클럽 넛징 노출 확인                        \n- 스마일배송 > SRP 영역 배너 노출 확인                                                \n- 스마일배송 > SRP 영역 푸터 노출 확인                        \n-  위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"스마일 배송 Corner 홈\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.4) 배달 Corner 홈",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 주소 검색하기                        \n- 현재 위치로 배달                        \n- 담긴 상품이 없을 때 주문표 선택                        \n- 담긴 상품이 있을 때 주문표 선택                        \n- 위치정보                        \n- 배달 홈 기본기능                        \n- 배달 홈                        \n- 주문표 (상품O)                        \n- 주문표(상품X)                        \n- 카테고리                        \n- 상품 주문하기                        \n- 매장 검색\n- 위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"배달 Corner 홈\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.5) 당일 배송 Corner 홈",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 당일배송                        \n- 당일배송 코너                        \n- 당일배송 (배송지)                        \n- 당일배송 (배송시간표)                        \n- 당일배송 (배송 슬랏)                        \n- 당일배송관(업체별) UI                        \n- 당일배송 코너 (슬로건 배너)                        \n- 당일배송 > 띠 배너                        \n- 당일배송 > 띠 배너 (2)                        \n- 당일배송 (카테고리)                        \n- 당일배송 (고정혜택)                        \n- 당일배송 (행사코드)                         \n- 당일배송 (금주의 잇템)                        \n- 당일배송 (자주구매)                        \n- 당일배송 (TOP 배너)                        \n- 당일배송 > 장바구니 담기                        \n- 당일배송 > 구매하기                        \n- 당일배송 > 업체 확인                        \n- 당일배송 > 당일배송 상품안내 배너                        \n- 마트\n- 위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"당일 배송 Corner 홈\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.6) 슈퍼딜 Corner 홈",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 홈 > 슈퍼딜 > 슈퍼딜 코너 홈 랜딩 확인                        \n- 홈 > 슈퍼딜 > 서브페이지 > 스크롤 동작                        \n- 홈 > 슈퍼딜 > 서브페이지 > 리프레시                        \n- 홈 > 슈퍼딜 > 서브페이지 > TOP                        \n- 홈 > 슈퍼딜 > 서브페이지 > 헤더\n- 위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"슈퍼딜 Corner 홈\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.7) e쿠폰 Corner 홈",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- e쿠폰 > 기본기능                        \n- e쿠폰 > 카테고리                                                \n- e쿠폰 > 비로그인                        \n- e쿠폰 > 개수별 노출                        \n- e쿠폰 > 저장                        \n- e쿠폰 > 저장 (권한이 없는 경우)\n- 위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"e쿠폰 Corner 홈\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.8) Minishop 홈",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 미니샵 > 일반/백화점 랜딩                        \n- 미니샵 > 일반/백화점 > Best Item                        \n- 미니샵 Best Item VIP\n- 위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"Minishop Corner 홈\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "1.2.9) Footer",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "- 홈 > \"FOOTER\" 영역 노출 확인                        \n- 홈 > \"FOOTER\" > 로그인 선택 시 동작 확인                        \n- 홈 > \"FOOTER\" > 로그아웃 선택 시 동작 확인                        \n- 홈 > \"FOOTER\" > 고객센터 선택 시 동작 확인                        \n- 홈 > \"FOOTER\" > 앱설정 선택 시 동작 확인                        \n- 홈 > \"FOOTER\" > 주식회사 지마켓 ∨ 선택 시 동작 확인                        \n- 홈 > \"FOOTER\" > 이용약관 선택 시 동작 확인                        \n- 홈 > \"FOOTER\" > 개인정보 처리방침 선택 시 동작 확인                        \n- 홈 > \"FOOTER\" > 사업자정보 확인 선택 시 동작 확인\n- 위 절차가 정상적으로 완료된 경우 메인화면으로 이동",
+        "expected": "- 메인홈 \"footoer\"영역의 Ui가 정상적으로 노출\n- 메인 페이지가 성공적으로 로드"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "2.1.1) 회원 로그인 실패 - Home",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "2.1.1) 회원 로그인 실패 - Home",
+        "expected": "로그인 실패 오류 얼럿 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "2.1.2) 회원 로그인 실패 - MyG",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "2.1.2) 회원 로그인 실패 - MyG",
+        "expected": "로그인 실패 오류 얼럿 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "2.1.3) 회원 로그인 실패 - VIP > 구매하기",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "2.1.3) 회원 로그인 실패 - VIP > 구매하기",
+        "expected": "로그인 실패 오류 얼럿 확인"
+      }
+    ],
+    "case_ids": []
+  },
+  {
+    "title": "2.1.4) 회원 로그인 실패 - e쿠폰 > PP사 > 선물하기",
+    "project_id": 113,
+    "created_by": 76,
+    "created_on": 1703138586,
+    "updated_by": 76,
+    "updated_on": 1703150934,
+    "custom_steps_separated": [
+      {
+        "content": "2.1.4) 회원 로그인 실패 - e쿠폰 > PP사 > 선물하기",
+        "expected": "로그인 실패 오류 얼럿 확인"
+      }
+    ],
+    "case_ids": []
+  }
+]
